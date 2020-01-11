@@ -16,3 +16,6 @@ reddit .ini file:
 To build static files for production, run `make` in the main reddit repository.
 It will detect, build, and merge in the gold plugin static files for
 deployment.
+
+
+npm i uglify-js@2.4.22
